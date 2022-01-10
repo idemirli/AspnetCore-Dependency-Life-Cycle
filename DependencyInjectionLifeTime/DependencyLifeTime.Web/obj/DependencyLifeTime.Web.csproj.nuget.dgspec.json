@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\AspNetCore Çalışma\\DependencyInjectionLifeTime\\DependencyLifeTime.Web\\DependencyLifeTime.Web.csproj": {}
+    "D:\\AspNetCoreWork\\DependencyInjectionLifeTime\\DependencyLifeTime.Web\\DependencyLifeTime.Web.csproj": {}
   },
   "projects": {
-    "D:\\AspNetCore Çalışma\\DependencyInjectionLifeTime\\DependencyLifeTime.Web\\DependencyLifeTime.Web.csproj": {
+    "D:\\AspNetCoreWork\\DependencyInjectionLifeTime\\DependencyLifeTime.Web\\DependencyLifeTime.Web.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\AspNetCore Çalışma\\DependencyInjectionLifeTime\\DependencyLifeTime.Web\\DependencyLifeTime.Web.csproj",
+        "projectUniqueName": "D:\\AspNetCoreWork\\DependencyInjectionLifeTime\\DependencyLifeTime.Web\\DependencyLifeTime.Web.csproj",
         "projectName": "DependencyLifeTime.Web",
-        "projectPath": "D:\\AspNetCore Çalışma\\DependencyInjectionLifeTime\\DependencyLifeTime.Web\\DependencyLifeTime.Web.csproj",
+        "projectPath": "D:\\AspNetCoreWork\\DependencyInjectionLifeTime\\DependencyLifeTime.Web\\DependencyLifeTime.Web.csproj",
         "packagesPath": "C:\\Users\\ibrhm\\.nuget\\packages\\",
-        "outputPath": "D:\\AspNetCore Çalışma\\DependencyInjectionLifeTime\\DependencyLifeTime.Web\\obj\\",
+        "outputPath": "D:\\AspNetCoreWork\\DependencyInjectionLifeTime\\DependencyLifeTime.Web\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\",

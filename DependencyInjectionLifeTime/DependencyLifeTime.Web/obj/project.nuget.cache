@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "2Ycsu/yHA6IAK2+F1IqbQGMLEbF1tPOO5j9/PuyPep53JCxuqaX2jym1CMV+qQdmfL+jlgWBzlALyxwBUNZKfA==",
+  "dgSpecHash": "nf6yRu/cmEebaka97QCQqx0OF+mBDQQcNYYFmJkLbKDYclyBoGpI5zIyIqZKiCzIfNuiCWbw5s2i1lKqy5IQbg==",
   "success": true,
-  "projectFilePath": "D:\\AspNetCore Çalışma\\DependencyInjectionLifeTime\\DependencyLifeTime.Web\\DependencyLifeTime.Web.csproj",
+  "projectFilePath": "D:\\AspNetCoreWork\\DependencyInjectionLifeTime\\DependencyLifeTime.Web\\DependencyLifeTime.Web.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
