@@ -1,0 +1,20 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+<h1>One Of the One Services</h1>
+
+<h3>Scoped : @ViewBag.Scoped</h3>
+<br />
+<h3>Transient : @ViewBag.Transient</h3>
+<br />
+<h3>Singleton : @ViewBag.Singleton</h3>
+
+<hr />
+
+<h1>All Management</h1>
+<h3>Scoped : @ViewBag.AllManagement._scopedService.instanceId</h3>
+<br />
+<h3>Transient : @ViewBag.AllManagement._transientService.instanceId </h3>
+<br />
+<h3>Singleton : @ViewBag.AllManagement._singletonService.instanceId </h3>
