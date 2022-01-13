@@ -37,3 +37,42 @@ D:\AspNetCore Çalışma\DependencyInjectionLifeTime\DependencyLifeTime.Web\obj\
 D:\AspNetCore Çalışma\DependencyInjectionLifeTime\DependencyLifeTime.Web\obj\Debug\net5.0\DependencyLifeTime.Web.pdb
 D:\AspNetCore Çalışma\DependencyInjectionLifeTime\DependencyLifeTime.Web\obj\Debug\net5.0\DependencyLifeTime.Web.genruntimeconfig.cache
 D:\AspNetCore Çalışma\DependencyInjectionLifeTime\DependencyLifeTime.Web\obj\Debug\net5.0\DependencyLifeTime.Web.csproj.CopyComplete
+D:\AspNetCoreWork\DependencyInjectionLifeTime\DependencyLifeTime.Web\bin\Debug\net5.0\appsettings.Development.json
+D:\AspNetCoreWork\DependencyInjectionLifeTime\DependencyLifeTime.Web\bin\Debug\net5.0\appsettings.json
+D:\AspNetCoreWork\DependencyInjectionLifeTime\DependencyLifeTime.Web\bin\Debug\net5.0\DependencyLifeTime.Web.exe
+D:\AspNetCoreWork\DependencyInjectionLifeTime\DependencyLifeTime.Web\bin\Debug\net5.0\DependencyLifeTime.Web.deps.json
+D:\AspNetCoreWork\DependencyInjectionLifeTime\DependencyLifeTime.Web\bin\Debug\net5.0\DependencyLifeTime.Web.runtimeconfig.json
+D:\AspNetCoreWork\DependencyInjectionLifeTime\DependencyLifeTime.Web\bin\Debug\net5.0\DependencyLifeTime.Web.runtimeconfig.dev.json
+D:\AspNetCoreWork\DependencyInjectionLifeTime\DependencyLifeTime.Web\bin\Debug\net5.0\DependencyLifeTime.Web.dll
+D:\AspNetCoreWork\DependencyInjectionLifeTime\DependencyLifeTime.Web\bin\Debug\net5.0\ref\DependencyLifeTime.Web.dll
+D:\AspNetCoreWork\DependencyInjectionLifeTime\DependencyLifeTime.Web\bin\Debug\net5.0\DependencyLifeTime.Web.pdb
+D:\AspNetCoreWork\DependencyInjectionLifeTime\DependencyLifeTime.Web\bin\Debug\net5.0\DependencyLifeTime.Web.Views.dll
+D:\AspNetCoreWork\DependencyInjectionLifeTime\DependencyLifeTime.Web\bin\Debug\net5.0\DependencyLifeTime.Web.Views.pdb
+D:\AspNetCoreWork\DependencyInjectionLifeTime\DependencyLifeTime.Web\obj\Debug\net5.0\DependencyLifeTime.Web.GeneratedMSBuildEditorConfig.editorconfig
+D:\AspNetCoreWork\DependencyInjectionLifeTime\DependencyLifeTime.Web\obj\Debug\net5.0\DependencyLifeTime.Web.AssemblyInfoInputs.cache
+D:\AspNetCoreWork\DependencyInjectionLifeTime\DependencyLifeTime.Web\obj\Debug\net5.0\DependencyLifeTime.Web.AssemblyInfo.cs
+D:\AspNetCoreWork\DependencyInjectionLifeTime\DependencyLifeTime.Web\obj\Debug\net5.0\DependencyLifeTime.Web.csproj.CoreCompileInputs.cache
+D:\AspNetCoreWork\DependencyInjectionLifeTime\DependencyLifeTime.Web\obj\Debug\net5.0\DependencyLifeTime.Web.MvcApplicationPartsAssemblyInfo.cache
+D:\AspNetCoreWork\DependencyInjectionLifeTime\DependencyLifeTime.Web\obj\Debug\net5.0\DependencyLifeTime.Web.RazorAssemblyInfo.cache
+D:\AspNetCoreWork\DependencyInjectionLifeTime\DependencyLifeTime.Web\obj\Debug\net5.0\DependencyLifeTime.Web.RazorAssemblyInfo.cs
+D:\AspNetCoreWork\DependencyInjectionLifeTime\DependencyLifeTime.Web\obj\Debug\net5.0\staticwebassets\DependencyLifeTime.Web.StaticWebAssets.Manifest.cache
+D:\AspNetCoreWork\DependencyInjectionLifeTime\DependencyLifeTime.Web\obj\Debug\net5.0\staticwebassets\DependencyLifeTime.Web.StaticWebAssets.xml
+D:\AspNetCoreWork\DependencyInjectionLifeTime\DependencyLifeTime.Web\obj\Debug\net5.0\scopedcss\bundle\DependencyLifeTime.Web.styles.css
+D:\AspNetCoreWork\DependencyInjectionLifeTime\DependencyLifeTime.Web\obj\Debug\net5.0\DependencyLifeTime.Web.TagHelpers.input.cache
+D:\AspNetCoreWork\DependencyInjectionLifeTime\DependencyLifeTime.Web\obj\Debug\net5.0\DependencyLifeTime.Web.TagHelpers.output.cache
+D:\AspNetCoreWork\DependencyInjectionLifeTime\DependencyLifeTime.Web\obj\Debug\net5.0\DependencyLifeTime.Web.RazorCoreGenerate.cache
+D:\AspNetCoreWork\DependencyInjectionLifeTime\DependencyLifeTime.Web\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+D:\AspNetCoreWork\DependencyInjectionLifeTime\DependencyLifeTime.Web\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+D:\AspNetCoreWork\DependencyInjectionLifeTime\DependencyLifeTime.Web\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+D:\AspNetCoreWork\DependencyInjectionLifeTime\DependencyLifeTime.Web\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\AspNetCoreWork\DependencyInjectionLifeTime\DependencyLifeTime.Web\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\AspNetCoreWork\DependencyInjectionLifeTime\DependencyLifeTime.Web\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+D:\AspNetCoreWork\DependencyInjectionLifeTime\DependencyLifeTime.Web\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+D:\AspNetCoreWork\DependencyInjectionLifeTime\DependencyLifeTime.Web\obj\Debug\net5.0\DependencyLifeTime.Web.RazorTargetAssemblyInfo.cache
+D:\AspNetCoreWork\DependencyInjectionLifeTime\DependencyLifeTime.Web\obj\Debug\net5.0\DependencyLifeTime.Web.RazorTargetAssemblyInfo.cs
+D:\AspNetCoreWork\DependencyInjectionLifeTime\DependencyLifeTime.Web\obj\Debug\net5.0\DependencyLifeTime.Web.Views.pdb
+D:\AspNetCoreWork\DependencyInjectionLifeTime\DependencyLifeTime.Web\obj\Debug\net5.0\DependencyLifeTime.Web.dll
+D:\AspNetCoreWork\DependencyInjectionLifeTime\DependencyLifeTime.Web\obj\Debug\net5.0\ref\DependencyLifeTime.Web.dll
+D:\AspNetCoreWork\DependencyInjectionLifeTime\DependencyLifeTime.Web\obj\Debug\net5.0\DependencyLifeTime.Web.pdb
+D:\AspNetCoreWork\DependencyInjectionLifeTime\DependencyLifeTime.Web\obj\Debug\net5.0\DependencyLifeTime.Web.genruntimeconfig.cache
+D:\AspNetCoreWork\DependencyInjectionLifeTime\DependencyLifeTime.Web\obj\Debug\net5.0\DependencyLifeTime.Web.csproj.CopyComplete
